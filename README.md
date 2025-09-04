@@ -1,7 +1,7 @@
 # Dead-Scoreboard
 The best Fivem Scoreboard created [A Fivem Script]
 ## Dead's Developer Community [Discord]
-[![Developer Discord]()]()
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
 
 ## What is it?
 
